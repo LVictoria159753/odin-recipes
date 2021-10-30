@@ -1,2 +1,2 @@
 # odin-recipes
-Webpage about tasty food recipes
+# HTML practice
